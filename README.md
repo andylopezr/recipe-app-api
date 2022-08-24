@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API Project using Django
+>Recipe API Project using Django
